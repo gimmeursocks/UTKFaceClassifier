@@ -13,7 +13,7 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 ## Installation
 ```
-git clone https://github.com/gimmeursocks/UTKFaceClassifier.git
+git clone https://github.com/gimmeursocks/UTKFaceClassifier_HousePricesRegressor.git
 ```
 extract the downloaded file from kaggle and copy the images and place it in the ```src/utkface``` folder
 
