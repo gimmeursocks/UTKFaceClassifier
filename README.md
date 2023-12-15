@@ -23,6 +23,7 @@ when you download dataset for the image
 
 (1) change the folder name from utkcropped to utkface
 
+![1](https://github.com/gimmeursocks/UTKFaceClassifier/assets/111501299/2672f11d-9565-4b2d-b988-395fd73d874a)
 
 (2) delete the duplicated folder inside utkface folder
 
